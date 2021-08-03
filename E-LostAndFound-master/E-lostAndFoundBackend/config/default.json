@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:w7Uhs6LK795E7vz@cluster0.bct5h.mongodb.net/lostandfound?retryWrites=true&w=majority",
+    "jwtSecret": "shhhhh.."
+} 

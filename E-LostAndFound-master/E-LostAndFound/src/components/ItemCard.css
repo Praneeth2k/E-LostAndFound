@@ -1,0 +1,18 @@
+.darkThemeCard{
+    color:white;
+    background-color: black !important;
+    border: 0.7px solid rgb(39, 35, 35)  !important;
+}
+
+.darkThemeCard:hover{
+    background-color:rgb(39, 35, 35) !important;
+}
+
+.lightThemeCard{
+    color:"black";
+    border:0.7px solid rgb(207, 207, 207)!important;
+}
+
+.lightThemeCard:hover{
+    background-color: rgb(233, 233, 233)
+}

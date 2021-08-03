@@ -1,0 +1,59 @@
+.header {
+    background-image:linear-gradient(to right, rgb(0, 0, 43),rgb(1, 1, 54)) !important;
+    padding: 1em 0em 1em 0em;
+    border-bottom: 0px;
+  }
+
+.main-titles-dad{
+    margin:0 auto;
+}
+.main-title {
+    color: white;
+    font-size: 1.7em !important;
+    font-family:helvetica;
+    margin:0 auto !important;
+
+}
+.main-title:hover {
+    color: rgb(190, 212, 230);
+
+}
+
+.main-titles-grandfather{
+    margin:0 auto !important;
+}
+.main-title img{
+    background-color: rgb(2, 61, 112);
+    margin-right:0.5em;
+    height: 2.4em;
+    width:2.4em;
+    box-shadow: 0em 0.05em 0.1em 0.05em aqua;
+}
+.main-title img:hover{
+    margin-right:0.5em;
+    height: 2.4em;
+    width:2.4em;
+    transform: translate(1px,1px);
+}
+
+.navbar-text{
+    color:white !important;
+    font-size:1.2em;
+}
+.nav-link{
+    color:white !important;
+    margin-right:1em;
+    font-weight: 85;
+    font-size: 1.5em;
+    
+
+}
+
+
+.nav-link:hover{
+    color: rgb(245, 230, 233) !important;
+    text-decoration: 2px underline white !important;
+    text-underline-offset: 4px;
+    transform: translate(0.3px, 1px);
+    
+}

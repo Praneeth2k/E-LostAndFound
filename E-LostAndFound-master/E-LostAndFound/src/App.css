@@ -1,0 +1,54 @@
+body{
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: arial;
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color: white;
+  color:black
+}
+
+.intro > h1 {
+  text-align: center;
+  color: orangered;
+}
+
+.intro > p {
+  text-align:center;
+  font-size: large;
+}
+
+/*-----------Item card-------------*/
+
+
+ /*--------------Footer------------*/
+
+/*.foot {
+  background-color: rgb(163, 161, 157);
+  padding-top: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}*/
+
+
+
+
+
+
+
+
+.modal-content {
+  width: 200%;
+}
+
+.fileUploader{
+  width: 53%;
+}

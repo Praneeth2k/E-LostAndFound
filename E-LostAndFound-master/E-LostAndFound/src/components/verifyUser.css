@@ -1,0 +1,14 @@
+.verify-otp {
+    margin:3em auto;
+}
+
+.verify-otp h1{
+    color:rgb(8, 52, 92);
+    font-size: 2em;
+    margin-bottom: 1.3em;
+    font-style:helvetica !important;
+}
+.verify-otp h2{
+    color: rgb(5, 5, 136);
+    margin-bottom:1em;
+}

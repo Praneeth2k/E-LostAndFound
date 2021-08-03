@@ -1,0 +1,91 @@
+.container {
+    text-align:center;
+}
+
+.jumbotron {
+    /*height: 122vh;*/
+    /* background-image: url('../bms_blur.jpg');
+    background-size: cover; */
+    border-top:0px;
+    font-family: arial;
+    background-image:linear-gradient(to right, rgb(0, 0, 43),rgb(1, 1, 54)) !important;
+    padding-top:1em !important;
+    box-shadow: 0 0.4em 0.2em 0.2em rgb(2, 26, 71);
+    border-radius: 0 0 0.8% 0.8% !important;
+  }
+.welcome {
+    padding: 5em;
+}
+
+.welcome h1 {
+    font-size: 3.7em;
+    color: aqua
+}
+
+.welcome h2 {
+    color: white
+}
+
+h1 {
+    color:rgb(247, 227, 200);
+    font-size: 3em;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.login-signup {
+    margin:0.3em auto;
+}
+
+.welcome h3 {
+    color:white;
+}
+  
+.HomepageCard{
+    color:black;
+}
+
+.button-login-signup {
+    font-weight: bold;
+    margin: 0.8em;
+    padding-left:0.2em !important;
+    padding-right:0.2em !important;
+    box-shadow: 0em 0em 0.03em 0.05em aqua !important;
+}
+
+.button-lost-found {
+    width: 10em;
+    margin: 0 auto;
+}
+
+.wrapper {
+    transform: perspective(1000px) rotateX(7deg) rotateY(-8deg) ;
+    max-width:20em !important;
+    max-height:30em !important;
+    margin:0 auto;
+    transition-duration: 0.5s;
+}
+.wrapper:hover{
+    transform: perspective(1000px) rotateX(2deg) rotateY(-2deg);
+    transition-duration: 0.5s;
+}
+.carousel-container{
+    margin:4em auto !important;
+}
+
+.carousel-caption h3 {
+    color:rgb(0, 0, 43);
+    font-size:2.4em;
+    text-shadow: 1em !important;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+
+.slide{
+    border: 0.2em black solid;
+    box-shadow: 3px 3px 5px 6px rgba(3, 38, 66, 0.486);
+}
+

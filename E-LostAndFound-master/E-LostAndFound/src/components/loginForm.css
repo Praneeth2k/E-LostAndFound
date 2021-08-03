@@ -1,0 +1,26 @@
+.login-form {
+    padding: 1em;
+    color:black;
+    background-color:white;
+    margin: 0 auto 2em;
+    max-width: 20em;
+    border: solid 0.2em rgb(0, 0, 27);
+    border-radius: 2%;
+}
+
+.btn{
+    margin-bottom: 1em !important
+}
+
+.form-group{
+    padding: 1em;
+}
+
+
+
+
+
+.form-container{
+    margin: 3em auto 6em;
+}
+
